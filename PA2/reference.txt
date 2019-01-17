@@ -1,0 +1,5 @@
+https://www.pythoncentral.io/hashing-strings-with-python/
+https://pythontips.com/2014/01/15/the-open-function-explained/
+https://stackoverflow.com/questions/2052390/manually-raising-throwing-an-exception-in-python
+997ed7e0221f59df1494b4db62f045c0b70bf93e
+baf077737a2101994c50f28ff76fd56222f68d4a3
